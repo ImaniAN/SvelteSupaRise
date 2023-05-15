@@ -1,0 +1,3 @@
+C:/Users/imani/OneDrive/Desktop/GitHub Projects/SvelteSupaRise/SvelteSupaRise/out/build/x64-Debug/CMakeFiles/edit_cache.dir
+C:/Users/imani/OneDrive/Desktop/GitHub Projects/SvelteSupaRise/SvelteSupaRise/out/build/x64-Debug/CMakeFiles/SvelteSupaRise.dir
+C:/Users/imani/OneDrive/Desktop/GitHub Projects/SvelteSupaRise/SvelteSupaRise/out/build/x64-Debug/CMakeFiles/rebuild_cache.dir
