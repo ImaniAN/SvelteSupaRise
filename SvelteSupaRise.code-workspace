@@ -1,0 +1,49 @@
+{
+	"folders": [
+		{
+			"path": "."
+		}
+	],
+	"settings": {},
+	"extensions": {
+		"recommendations": [
+			"bierner.emojisense",
+			"piotrpalarz.vscode-gitignore-generator",
+			"ms-vscode.cpptools",
+			"formulahendry.code-runner",
+			"streetsidesoftware.code-spell-checker",
+			"naumovs.color-highlight",
+			"bierner.color-info",
+			"anseki.vscode-color",
+			"waderyan.gitblame",
+			"donjayamanne.git-extension-pack",
+			"mhutchie.git-graph",
+			"donjayamanne.githistory",
+			"shaharkazaz.git-merger",
+			"felipecaputo.git-project-manager",
+			"github.codespaces",
+			"github.vscode-pull-request-github",
+			"codezombiech.gitignore",
+			"eamodio.gitlens",
+			"znck.grammarly",
+			"kisstkondoros.vscode-gutter-preview",
+			"visualstudioexptteam.vscodeintellicode",
+			"visualstudioexptteam.intellicode-api-usage-examples",
+			"adamvoss.vscode-languagetool",
+			"bierner.markdown-emoji",
+			"yzhang.markdown-all-in-one",
+			"bierner.markdown-preview-github-styles",
+			"davidanson.vscode-markdownlint",
+			"pkief.material-icon-theme",
+			"unifiedjs.vscode-mdx",
+			"christian-kohler.path-intellisense",
+			"esbenp.prettier-vscode",
+			"tabnine.tabnine-vscode",
+			"wayou.vscode-todo-highlight",
+			"gruntfuggly.todo-tree",
+			"shardulm94.trailing-spaces",
+			"lihui.vs-color-picker",
+			"vscode-icons-team.vscode-icons"
+		]
+	}
+}
