@@ -37,7 +37,7 @@
 <h3 align="center">SvelteSupaRise</h3>
 
   <p align="center">
-    This project is a web application built using SvelteKit, Mobirise, and Supabase. It provides a responsive, easy-to-use interface for managing data and handling user authentication, with a focus on simplicity and flexibility. The combination of these technologies allows developers to quickly build and deploy powerful web applications with ease
+    The project aims to create a low-code website builder that combines the power of SvelteKit, Tailwind CSS with TailwindUI and DaisyUI, and SupaBase. The goal is to empower users to create modern and responsive websites efficiently, with features such as code blocks, extensions, and plugins.
     <br />
     <a href="https://github.com/ImaniAN/SvelteSupaRise"><strong>Explore the docs »</strong></a>
     <br />
